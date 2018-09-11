@@ -23,7 +23,7 @@ _Note: if you're coming to [Chain React, the React Native Conference](https://in
 
 After months of work and sweat and tears, Ignite CLI has landed! We're incredibly proud of where Ignite CLI is and where it's headed.
 
-Cliff notes version of the difference between Ignite 1 and Ignite CLI:
+Cliff’s Notes version of the difference between Ignite 1 and Ignite CLI:
 
 Ignite 1 was a (very nice!) [React Native](http://facebook.github.io/react-native/docs/getting-started.html) boilerplate. Ignite CLI is a generator for React Native with boilerplates, plugins, and more. Where before you had one choice -- [Infinite Red](https://infinite.red)'s boilerplate -- now you can choose from many boilerplates and also add standalone plugins as you need them. It's much more modular and extensible than Ignite 1.
 
